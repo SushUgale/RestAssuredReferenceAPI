@@ -5,4 +5,4 @@ Project Features:
 This Project is able to automate execution and validation. 
 
 Rest API's: GET, POST, PUT, PATCH.
-SOAP API
+SOAP API.
