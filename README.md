@@ -4,5 +4,5 @@ I have created this project using restAssured, TestNG, and JsonPATH to automate 
 Project Features:
 This Project is able to automate execution and validation. 
 
-Rest API's: GET, POST, PUT, PATCH
+Rest API's: GET, POST, PUT, PATCH.
 SOAP API
